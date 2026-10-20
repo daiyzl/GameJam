@@ -1,0 +1,16 @@
+Fire balance: wood 6 / fire 1 = 1 affected cell; wood 10 / fire 50 = 5 cells, radius 1
+PASS: acceptance regressions (deathland, heat spread/barriers, flooding/landing, animal routes)
+No-rain channel: open bank=3.68, clogged bank=4.43, deposited=35.29
+Day-six continuity: original village #1, population=19, tier=2, migrations=0; 木材库存耗尽，居民搬离
+PASS: village 36/49/64-cell regions, harvesting boundaries, day-six identity, migration tier and split continuity
+phase 1: pop=10, prosperity=63.0, trees=16, farms=0, wildMoves=6, won=False
+phase 6: pop=20, prosperity=77.6, trees=35, farms=2, wildMoves=35, won=True
+phase 11: pop=26, prosperity=88.7, trees=62, farms=4, wildMoves=93, won=True
+phase 16: pop=44, prosperity=99.6, trees=82, farms=8, wildMoves=185, won=True
+phase 21: pop=58, prosperity=98.7, trees=92, farms=9, wildMoves=290, won=True
+phase 26: pop=68, prosperity=99.7, trees=134, farms=9, wildMoves=396, won=True
+30 supported phases: 651ms
+Perlin terrain cells: plain=599, slope=158, mountain=141
+750-day run: max flooded=22/898, final=20, water=1121.50, gold=82.2490, waterError=0.2870, goldError=0.00024
+PASS: Perlin terrain, moist forest destruction/ignition, rooted banks, flooded mine and 750-day water/gold budgets
+PASS: 454749 assertions

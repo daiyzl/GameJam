@@ -1,0 +1,3 @@
+seed=2,season=Summer,days=750,maxFlood=5/898,finalFlood=0,waterError=-0.0341,everProsperous=False
+seed=17,season=Spring,days=750,maxFlood=207/898,finalFlood=58,waterError=0.0597,everProsperous=True
+PASS: fortunate and ordinary random maps retain dry land and conserve water over 750 days

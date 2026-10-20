@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 1;">
+        <ui:Button text="开始游戏" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Start" style="width: 45%; justify-content: flex-start; align-self: center; align-items: auto; top: 45%;" />
+        <ui:Button text="退出游戏" parse-escape-sequences="true" display-tooltip-when-elided="true" name="End" style="width: 45%; align-self: center; top: 45%;" />
+        <ui:Button text="选择季节" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Select" style="width: 45%; align-self: center; top: 45%;" />
+        <ui:Button text="称号" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Honor" style="width: 45%; align-self: center; top: 45%;" />
+    </ui:VisualElement>
+</ui:UXML>

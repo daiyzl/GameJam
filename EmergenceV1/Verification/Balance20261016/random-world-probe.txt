@@ -1,0 +1,25 @@
+seed=1,season=Spring,peak=87.1,firstProsperityPhase=9
+seed=2,season=Summer,peak=61.1,firstProsperityPhase=-1
+seed=3,season=Autumn,peak=85.0,firstProsperityPhase=38
+seed=4,season=Winter,peak=86.5,firstProsperityPhase=38
+seed=5,season=Spring,peak=82.8,firstProsperityPhase=50
+seed=6,season=Summer,peak=80.0,firstProsperityPhase=40
+seed=7,season=Autumn,peak=78.6,firstProsperityPhase=71
+seed=8,season=Winter,peak=86.6,firstProsperityPhase=23
+seed=9,season=Spring,peak=84.2,firstProsperityPhase=5
+seed=10,season=Summer,peak=82.3,firstProsperityPhase=29
+seed=11,season=Autumn,peak=88.9,firstProsperityPhase=15
+seed=12,season=Winter,peak=76.8,firstProsperityPhase=39
+seed=13,season=Spring,peak=88.4,firstProsperityPhase=5
+seed=14,season=Summer,peak=75.1,firstProsperityPhase=41
+seed=15,season=Autumn,peak=64.5,firstProsperityPhase=-1
+seed=16,season=Winter,peak=88.5,firstProsperityPhase=18
+seed=17,season=Spring,peak=90.5,firstProsperityPhase=16
+seed=18,season=Summer,peak=87.7,firstProsperityPhase=16
+seed=19,season=Autumn,peak=82.3,firstProsperityPhase=25
+seed=20,season=Winter,peak=82.4,firstProsperityPhase=91
+seed=21,season=Spring,peak=88.1,firstProsperityPhase=12
+seed=22,season=Summer,peak=80.3,firstProsperityPhase=59
+seed=23,season=Autumn,peak=77.9,firstProsperityPhase=35
+seed=24,season=Winter,peak=81.3,firstProsperityPhase=36
+Winners=22/24 Early=4

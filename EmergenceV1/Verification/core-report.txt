@@ -1,0 +1,9 @@
+No-rain channel: open bank=3.89, clogged bank=5.25, deposited=8.00
+phase 1: pop=10, prosperity=63.0, trees=16, farms=0, wildMoves=6, won=False
+phase 6: pop=20, prosperity=79.9, trees=21, farms=1, wildMoves=29, won=True
+phase 11: pop=36, prosperity=96.9, trees=35, farms=3, wildMoves=68, won=True
+phase 16: pop=62, prosperity=99.8, trees=59, farms=8, wildMoves=136, won=True
+phase 21: pop=81, prosperity=99.7, trees=89, farms=8, wildMoves=243, won=True
+phase 26: pop=105, prosperity=97.2, trees=98, farms=8, wildMoves=357, won=True
+30 supported phases: 370ms
+PASS: 436950 assertions

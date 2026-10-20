@@ -1,0 +1,20 @@
+day=1 phase=0 flooded=0/898 water=1984.80 maxWater=8.00 height=0.20..3.30 in=0.00 out=0.00 gold=174.0000 waterError=0.0000 goldError=0.0000
+day=33 phase=96 flooded=86/898 water=2092.90 maxWater=39.75 height=0.21..4.22 in=3840.00 out=297.09 gold=126.4002 waterError=-0.0088 goldError=0.0002
+day=51 phase=150 flooded=111/898 water=2529.91 maxWater=41.51 height=0.21..4.59 in=6000.00 out=427.30 gold=126.4002 waterError=-0.0186 goldError=0.0002
+day=101 phase=300 flooded=245/898 water=4041.44 maxWater=45.05 height=0.21..5.24 in=12000.00 out=879.53 gold=126.4002 waterError=-0.0174 goldError=0.0002
+day=151 phase=450 flooded=321/898 water=5006.80 maxWater=46.98 height=0.21..5.90 in=18000.00 out=1522.81 gold=126.4002 waterError=0.0310 goldError=0.0002
+day=201 phase=600 flooded=365/898 water=5650.45 maxWater=47.95 height=0.21..6.45 in=24000.00 out=2322.93 gold=126.4002 waterError=0.1063 goldError=0.0002
+day=251 phase=750 flooded=408/898 water=6233.88 maxWater=48.64 height=0.21..6.72 in=30000.00 out=3224.38 gold=126.4002 waterError=0.2199 goldError=0.0002
+day=301 phase=900 flooded=464/898 water=6824.54 maxWater=49.30 height=0.21..6.99 in=36000.00 out=4240.49 gold=126.4002 waterError=0.3557 goldError=0.0002
+day=351 phase=1050 flooded=517/898 water=7416.09 maxWater=49.96 height=0.21..7.24 in=42000.00 out=5396.65 gold=126.4002 waterError=0.5156 goldError=0.0002
+day=401 phase=1200 flooded=552/898 water=7883.34 maxWater=50.54 height=0.21..7.49 in=48000.00 out=6717.55 gold=126.4002 waterError=0.6890 goldError=0.0002
+day=451 phase=1350 flooded=583/898 water=8244.71 maxWater=50.96 height=0.21..7.73 in=54000.00 out=8186.18 gold=126.4002 waterError=0.8830 goldError=0.0002
+day=501 phase=1500 flooded=602/898 water=8500.22 maxWater=51.27 height=0.21..7.98 in=60000.00 out=9750.26 gold=126.4002 waterError=1.0730 goldError=0.0002
+day=551 phase=1650 flooded=621/898 water=8726.01 maxWater=51.66 height=0.21..8.17 in=66000.00 out=11374.04 gold=126.4002 waterError=1.2774 goldError=0.0002
+day=601 phase=1800 flooded=635/898 water=8943.14 maxWater=51.96 height=0.21..8.25 in=72000.00 out=13060.26 gold=126.4002 waterError=1.4681 goldError=0.0002
+day=651 phase=1950 flooded=644/898 water=9115.39 maxWater=52.18 height=0.21..8.30 in=78000.00 out=14816.11 gold=126.4002 waterError=1.6642 goldError=0.0002
+day=701 phase=2100 flooded=655/898 water=9254.16 maxWater=52.36 height=0.21..8.34 in=84000.00 out=16653.19 gold=126.4002 waterError=1.8822 goldError=0.0002
+day=751 phase=2250 flooded=662/898 water=9368.36 maxWater=52.52 height=0.21..8.36 in=90000.00 out=18558.10 gold=126.4002 waterError=2.1073 goldError=0.0002
+fireTool=1, wetTreeWood=7.739, tree=True, fire=0.000, spreads=0
+fireTool=4, wetTreeWood=7.701, tree=True, fire=0.000, spreads=0
+fireTool=8, wetTreeWood=7.587, tree=True, fire=0.000, spreads=0

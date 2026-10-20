@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "soil_slope",
+    "Width": 1356,
+    "Height": 1159,
+    "Format": "Format32bppArgb",
+    "ExpectedTransparent": true,
+    "TransparentSamples": 5805,
+    "PartialAlphaSamples": 3640,
+    "SampleCount": 9450,
+    "CornerAlpha": 0,
+    "Passed": true
+  },
+  {
+    "Id": "river_sediment_dam",
+    "Width": 1774,
+    "Height": 887,
+    "Format": "Format32bppArgb",
+    "ExpectedTransparent": true,
+    "TransparentSamples": 6380,
+    "PartialAlphaSamples": 3068,
+    "SampleCount": 9453,
+    "CornerAlpha": 0,
+    "Passed": true
+  }
+]

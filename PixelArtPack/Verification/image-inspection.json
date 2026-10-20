@@ -1,0 +1,103 @@
+{
+  "status": "passed",
+  "checks": [
+    {
+      "name": "character.png",
+      "width": 1086,
+      "height": 1448,
+      "mode": "RGBA",
+      "columns": 3,
+      "rows": 4,
+      "frameWidth": 362,
+      "frameHeight": 362,
+      "transparentBackground": true
+    },
+    {
+      "name": "fire.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "columns": 2,
+      "rows": 2,
+      "frameWidth": 627,
+      "frameHeight": 627,
+      "transparentBackground": true
+    },
+    {
+      "name": "forest.png",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGBA",
+      "columns": 1,
+      "rows": 1,
+      "frameWidth": 1536,
+      "frameHeight": 1024,
+      "transparentBackground": true
+    },
+    {
+      "name": "ground_elements.png",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "columns": 3,
+      "rows": 2,
+      "frameWidth": 512,
+      "frameHeight": 512
+    },
+    {
+      "name": "mountain.png",
+      "width": 1356,
+      "height": 1160,
+      "mode": "RGBA",
+      "columns": 1,
+      "rows": 1,
+      "frameWidth": 1356,
+      "frameHeight": 1160,
+      "transparentBackground": true
+    },
+    {
+      "name": "rain.png",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGBA",
+      "columns": 3,
+      "rows": 2,
+      "frameWidth": 512,
+      "frameHeight": 512,
+      "transparentBackground": true
+    },
+    {
+      "name": "sapling.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "columns": 1,
+      "rows": 1,
+      "frameWidth": 1024,
+      "frameHeight": 1536,
+      "transparentBackground": true
+    },
+    {
+      "name": "tree.png",
+      "width": 1060,
+      "height": 1484,
+      "mode": "RGBA",
+      "columns": 1,
+      "rows": 1,
+      "frameWidth": 1060,
+      "frameHeight": 1484,
+      "transparentBackground": true
+    },
+    {
+      "name": "water.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "columns": 3,
+      "rows": 3,
+      "frameWidth": 418,
+      "frameHeight": 418,
+      "transparentBackground": true
+    }
+  ]
+}

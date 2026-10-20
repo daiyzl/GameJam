@@ -1,0 +1,58 @@
+[
+  {
+    "track": "spring",
+    "seconds": 45.714,
+    "bpm": 84,
+    "rms": 0.13,
+    "peak": 0.6304,
+    "seam": 0.0032
+  },
+  {
+    "track": "summer",
+    "seconds": 40.0,
+    "bpm": 96,
+    "rms": 0.1167,
+    "peak": 0.72,
+    "seam": 0.005
+  },
+  {
+    "track": "autumn",
+    "seconds": 53.333,
+    "bpm": 72,
+    "rms": 0.1261,
+    "peak": 0.72,
+    "seam": 0.0028
+  },
+  {
+    "track": "winter",
+    "seconds": 60.0,
+    "bpm": 64,
+    "rms": 0.125,
+    "peak": 0.72,
+    "seam": 0.0072
+  },
+  {
+    "track": "thunderstorm",
+    "seconds": 36.923,
+    "bpm": 104,
+    "rms": 0.13,
+    "peak": 0.6041,
+    "seam": 0.0065
+  },
+  {
+    "track": "snow",
+    "seconds": 64.0,
+    "bpm": 60,
+    "rms": 0.1244,
+    "peak": 0.72,
+    "seam": 0.0009
+  },
+  {
+    "track": "wind",
+    "seconds": 43.636,
+    "bpm": 88,
+    "rms": 0.13,
+    "peak": 0.6587,
+    "seam": 0.0113
+  }
+]

@@ -1,0 +1,90 @@
+{
+    "status": "passed",
+    "textureCount": 9,
+    "spriteCount": 41,
+    "prefabCount": 41,
+    "animationCount": 11,
+    "assets": [
+        {
+            "name": "sapling",
+            "width": 1024,
+            "height": 1536,
+            "spriteCount": 1,
+            "pointFilter": true,
+            "noCompression": true,
+            "noMipmaps": true
+        },
+        {
+            "name": "tree",
+            "width": 1060,
+            "height": 1484,
+            "spriteCount": 1,
+            "pointFilter": true,
+            "noCompression": true,
+            "noMipmaps": true
+        },
+        {
+            "name": "forest",
+            "width": 1536,
+            "height": 1024,
+            "spriteCount": 1,
+            "pointFilter": true,
+            "noCompression": true,
+            "noMipmaps": true
+        },
+        {
+            "name": "mountain",
+            "width": 1356,
+            "height": 1160,
+            "spriteCount": 1,
+            "pointFilter": true,
+            "noCompression": true,
+            "noMipmaps": true
+        },
+        {
+            "name": "character",
+            "width": 1086,
+            "height": 1448,
+            "spriteCount": 12,
+            "pointFilter": true,
+            "noCompression": true,
+            "noMipmaps": true
+        },
+        {
+            "name": "ground_elements",
+            "width": 1536,
+            "height": 1024,
+            "spriteCount": 6,
+            "pointFilter": true,
+            "noCompression": true,
+            "noMipmaps": true
+        },
+        {
+            "name": "water",
+            "width": 1254,
+            "height": 1254,
+            "spriteCount": 9,
+            "pointFilter": true,
+            "noCompression": true,
+            "noMipmaps": true
+        },
+        {
+            "name": "rain",
+            "width": 1536,
+            "height": 1024,
+            "spriteCount": 6,
+            "pointFilter": true,
+            "noCompression": true,
+            "noMipmaps": true
+        },
+        {
+            "name": "fire",
+            "width": 1254,
+            "height": 1254,
+            "spriteCount": 4,
+            "pointFilter": true,
+            "noCompression": true,
+            "noMipmaps": true
+        }
+    ]
+}

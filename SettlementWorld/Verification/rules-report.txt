@@ -1,0 +1,3 @@
+PASS: 345697 assertions.
+Covered: healthy population growth and housing expansion; fire-driven decline; migration to healthier river bank; departure when no viable site remains; initial river requirement; exact 36-cell regions; symmetric village exclusion; avoiding player footprint; automatic new settlement and settler transfer; wild habitat migration; farm confinement and breeding; local element reactions; inventories; prosperity win; deterministic replay and nonnegative quantities.
+Recorded run: 480 simulated steps plus assertions in 36 ms on this machine (pure rules only, not full Unity rendering).

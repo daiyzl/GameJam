@@ -1,0 +1,2 @@
+Procedural generation: changed noise scale, amplitude and generateTerrain; different heights=0/1120
+This is an observed configuration limitation, not a passing feature assertion.

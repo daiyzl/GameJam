@@ -1,0 +1,12 @@
+{
+  "id": "water_polluted",
+  "label": "受到污染的水流",
+  "transparent": false,
+  "folder": "Sprites",
+  "tool": "image_gen built-in",
+  "referenceImages": [
+    "C:\\Users\\DLQian\\Documents\\ChatGPT\\GameJam\\PixelArtPack\\Sprites\\water.png"
+  ],
+  "sourcePath": "C:\\Users\\DLQian\\.codex\\generated_images\\01a10682-0599-71e1-8645-02e7d71400b6\\exec-b93b5659-e80b-4c71-b642-5fb2fa5d8e99.png",
+  "prompt": "Use case: stylized-concept. Asset type: one Unity 2D top-down polluted flowing water TILE texture. The supplied existing water is a STYLE reference only: match its large crisp square pixel clusters and flat top-down RPG water pattern. Create a SINGLE SQUARE opaque water surface filling canvas edge to edge, no banks, no transparent margin, no frame. A visibly polluted river surface, desaturated dark teal, murky olive green and muddy grey-brown flowing patches, black-charcoal oily streaks mingling with the current, restrained yellow-grey dirty foam and small sludge bubbles. Clear horizontal slightly diagonal current streaks so it still reads as FLOWING WATER, not dry ground, lava, pure black, or solid green goo. Keep water visible, with about 70 percent murky dark-teal surface and 30 percent olive brown oily pollution; limited subdued palette, high readability at one game-cell size. Pattern designed to repeat across a Tilemap, evenly distributed detail, matched opposing edges as closely as possible, no giant central feature. No scenery, NO objects, no fish, no people, no text, no labels, no watermark, no photographic blur or smooth painterly gradients. Native-looking coarse 48x48 pixel pattern enlarged with hard nearest-neighbor edges, like the reference. Black pollution fog will be a separate existing overlay; do not embed a huge fog ring or obscure the entire water tile. Produce only this single tile, not a spritesheet."
+}

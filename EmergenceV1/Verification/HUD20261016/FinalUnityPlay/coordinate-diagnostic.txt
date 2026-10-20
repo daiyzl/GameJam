@@ -1,0 +1,2 @@
+hud=True, active=True, world=True, tools=True, selected=Earth, placed=True, moved=False, title=繁荣 75.1 / 75       稳定 0 / 9 个时段
+第 1 天 · 早晨 / 秋季       本时段事件：平静, message=元素已投放；点击“渡过时段”结算影响。

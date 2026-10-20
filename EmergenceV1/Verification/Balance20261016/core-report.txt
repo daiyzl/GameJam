@@ -1,0 +1,28 @@
+Pollution fire: peak=9.81, spread=59, affected=60, adjacentWood=0.00, cleaned=2860.5
+PASS: eight titles, multiple awards, move/place flags, natural prosperity, clean end state and short tutorial
+PASS: whole-map rain, seasonal events, snow/melt budgets, drought ignition limits and bare-ground fire cleanup
+PASS: two-seed capacity, 0.5-earth compost, player/natural/bird inputs, spring gating and 30% per-bird delivery
+Fire balance: wood 6 / fire 1 = 1 affected cell; wood 10 / fire 50 = 5 cells, radius 1
+PASS: acceptance regressions (deathland, heat spread/barriers, flooding/landing, animal routes)
+No-rain channel: open bank=3.68, clogged bank=4.43, deposited=35.29
+Day-six continuity: original village #1, population=19, tier=2, migrations=0; 木材库存耗尽，居民搬离
+PASS: village 36/49/64-cell regions, harvesting boundaries, day-six identity, migration tier and split continuity
+phase 1: pop=10, prosperity=26.9, trees=227, farms=0, wildMoves=6, won=False
+phase 6: pop=20, prosperity=82.6, trees=346, farms=2, wildMoves=35, won=False
+phase 11: pop=36, prosperity=82.5, trees=434, farms=5, wildMoves=84, won=False
+phase 16: pop=64, prosperity=90.8, trees=453, farms=8, wildMoves=161, won=True
+phase 21: pop=92, prosperity=87.5, trees=466, farms=8, wildMoves=273, won=True
+phase 26: pop=94, prosperity=76.6, trees=489, farms=8, wildMoves=379, won=True
+30 supported phases: 764ms
+Perlin terrain cells: plain=599, slope=158, mountain=141
+750-day run: max flooded=41/898, final=39, water=1316.45, gold=83.9991, waterError=0.2709, goldError=0.00027
+PASS: Perlin terrain, moist forest destruction/ignition, rooted banks, flooded mine and 750-day water/gold budgets
+Spring 750 days with events: maxFlood=57/898, final=36, waterError=0.1865, goldError=0.00027, pollutionError=-1.9445, naturalFires=76
+Idle prosperity: peak=62.2, final=10.3, won=False
+Summer 750 days with events: maxFlood=44/898, final=0, waterError=-0.0311, goldError=0.00027, pollutionError=-3.4284, naturalFires=73
+Idle prosperity: peak=45.8, final=22.9, won=False
+Autumn 750 days with events: maxFlood=45/898, final=21, waterError=0.1458, goldError=0.00027, pollutionError=-4.1157, naturalFires=44
+Idle prosperity: peak=56.8, final=8.5, won=False
+Winter 750 days with events: maxFlood=157/898, final=8, waterError=0.0564, goldError=0.00028, pollutionError=-1.4698, naturalFires=29
+Idle prosperity: peak=66.8, final=0.0, won=False
+PASS: 1269720 assertions

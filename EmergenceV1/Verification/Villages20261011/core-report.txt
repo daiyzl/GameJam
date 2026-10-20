@@ -1,0 +1,13 @@
+Fire balance: wood 6 / fire 1 = 1 affected cell; wood 10 / fire 50 = 5 cells, radius 1
+PASS: acceptance regressions (deathland, heat spread/barriers, flooding/landing, animal routes)
+No-rain channel: open bank=3.89, clogged bank=5.25, deposited=8.00
+Day-six continuity: original village #1, population=16, tier=1, migrations=1; 木材库存耗尽，居民搬离；已迁移，保留原村编号与规模
+PASS: village 36/49/64-cell regions, harvesting boundaries, day-six identity, migration tier and split continuity
+phase 1: pop=10, prosperity=63.0, trees=16, farms=0, wildMoves=6, won=False
+phase 6: pop=20, prosperity=80.4, trees=26, farms=2, wildMoves=36, won=True
+phase 11: pop=30, prosperity=87.9, trees=45, farms=4, wildMoves=89, won=True
+phase 16: pop=56, prosperity=99.7, trees=71, farms=8, wildMoves=178, won=True
+phase 21: pop=84, prosperity=99.6, trees=94, farms=8, wildMoves=286, won=True
+phase 26: pop=109, prosperity=96.4, trees=109, farms=8, wildMoves=392, won=True
+30 supported phases: 469ms
+PASS: 437042 assertions

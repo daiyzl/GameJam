@@ -1,0 +1,41 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="StartMenu.uss" />
+    <ui:VisualElement name="MenuRoot" class="menu-root">
+        <ui:VisualElement name="Background" class="season-background season-autumn" picking-mode="Ignore" />
+        <ui:VisualElement class="background-veil" picking-mode="Ignore" />
+        <ui:VisualElement class="menu-layout">
+            <ui:VisualElement class="brand">
+                <ui:Label text="五 行 共 生" class="brand-eyebrow" />
+                <ui:Label text="河岸繁荣" class="brand-title" />
+                <ui:VisualElement class="brand-rule" />
+                <ui:Label text="让万物生长，让河岸繁荣。" class="brand-subtitle" />
+                <ui:Label text="金 · 木 · 水 · 火 · 土" class="elements" />
+            </ui:VisualElement>
+            <ui:VisualElement name="MenuCard" class="menu-card">
+                <ui:Label text="启 程" class="card-heading" />
+                <ui:Label text="选择一个季节，开始你的河岸故事。" class="card-description" />
+                <ui:VisualElement class="card-rule" />
+                <ui:VisualElement name="SeasonSelector" class="season-selector">
+                    <ui:Button name="SeasonPrevious" text="‹" tooltip="上一个季节" class="season-arrow" />
+                    <ui:Label name="Select" text="选择季节：秋" class="season-label" />
+                    <ui:Button name="SeasonNext" text="›" tooltip="下一个季节" class="season-arrow" />
+                </ui:VisualElement>
+                <ui:Label name="SeasonHint" text="秋色满岸，万物待你照料。" class="season-hint" />
+                <ui:Button text="开始游戏" name="Start" class="menu-button primary-button" />
+                <ui:Button text="称号" name="Honor" class="menu-button" />
+                <ui:Button text="退出游戏" name="End" class="menu-button quiet-button" />
+                <ui:Label name="MenuMessage" class="menu-message" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:Label text="五行流转 · 四季更迭" class="menu-footer" />
+        <ui:VisualElement name="HonorOverlay" class="modal-overlay hidden">
+            <ui:VisualElement class="honor-card">
+                <ui:Label text="河 岸 称 号" class="card-heading" />
+                <ui:VisualElement class="card-rule" />
+                <ui:Label name="HonorTitle" text="尚未获得称号" class="honor-title" />
+                <ui:Label name="HonorDescription" text="完成河岸繁荣教学，解锁「河岸守护者」。" class="honor-description" />
+                <ui:Button name="HonorClose" text="返回" class="menu-button primary-button" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

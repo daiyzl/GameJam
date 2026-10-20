@@ -1,0 +1,6 @@
+64 maps: layouts=64, spawns=63, villages=60, outletPositions=118, branched=34, lakes=22, maxRiverCells=177, earlyWins=0, elapsedMs=6292
+750 days seed=1: maxFlood=19/826, finalFlood=0, waterError=-0.109, everProsperous=True
+750 days seed=7: maxFlood=201/853, finalFlood=91, waterError=0.026, everProsperous=True
+750 days seed=17: maxFlood=9/850, finalFlood=0, waterError=-0.048, everProsperous=True
+750 days seed=31: maxFlood=8/883, finalFlood=0, waterError=-0.112, everProsperous=True
+PASS: 9176 procedural-world assertions

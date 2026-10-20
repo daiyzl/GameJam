@@ -1,0 +1,19 @@
+{
+    "status": "passed",
+    "error": "",
+    "coordinatePlacement": true,
+    "latchedFlags": true,
+    "shortTutorial": true,
+    "multipleHonors": true,
+    "hoverConditions": true,
+    "earnedOnlyMenu": true,
+    "endTime": true,
+    "customUI": true,
+    "statusPanel": true,
+    "clearViewport": true,
+    "transparentHUD": true,
+    "instructionsLifecycle": true,
+    "generatedLayout": true,
+    "cameraZoom": true,
+    "runtimeErrors": 0
+}

@@ -1,0 +1,22 @@
+PASS: whole-map rain, seasonal events, snow/melt budgets, drought ignition limits and bare-ground fire cleanup
+PASS: two-seed capacity, 0.5-earth compost, player/natural/bird inputs, spring gating and 30% per-bird delivery
+Fire balance: wood 6 / fire 1 = 1 affected cell; wood 10 / fire 50 = 5 cells, radius 1
+PASS: acceptance regressions (deathland, heat spread/barriers, flooding/landing, animal routes)
+No-rain channel: open bank=3.68, clogged bank=4.43, deposited=35.29
+Day-six continuity: original village #1, population=19, tier=2, migrations=0; 木材库存耗尽，居民搬离
+PASS: village 36/49/64-cell regions, harvesting boundaries, day-six identity, migration tier and split continuity
+phase 1: pop=10, prosperity=63.0, trees=16, farms=0, wildMoves=6, won=False
+phase 6: pop=20, prosperity=78.6, trees=33, farms=2, wildMoves=35, won=True
+phase 11: pop=36, prosperity=98.6, trees=56, farms=5, wildMoves=91, won=True
+phase 16: pop=64, prosperity=99.6, trees=84, farms=8, wildMoves=174, won=True
+phase 21: pop=96, prosperity=99.5, trees=106, farms=8, wildMoves=282, won=True
+phase 26: pop=119, prosperity=93.7, trees=118, farms=8, wildMoves=388, won=True
+30 supported phases: 608ms
+Perlin terrain cells: plain=599, slope=158, mountain=141
+750-day run: max flooded=41/898, final=39, water=1316.45, gold=83.9991, waterError=0.2709, goldError=0.00027
+PASS: Perlin terrain, moist forest destruction/ignition, rooted banks, flooded mine and 750-day water/gold budgets
+Spring 750 days with events: maxFlood=143/898, final=44, waterError=0.2035, goldError=0.00027, pollutionError=-2.4761, naturalFires=64
+Summer 750 days with events: maxFlood=43/898, final=2, waterError=-0.0101, goldError=0.00027, pollutionError=-4.0982, naturalFires=65
+Autumn 750 days with events: maxFlood=42/898, final=33, waterError=0.1514, goldError=0.00027, pollutionError=-2.5253, naturalFires=64
+Winter 750 days with events: maxFlood=45/898, final=8, waterError=0.0655, goldError=0.00028, pollutionError=-1.6986, naturalFires=24
+PASS: 1269437 assertions

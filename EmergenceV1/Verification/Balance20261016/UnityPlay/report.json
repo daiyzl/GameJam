@@ -1,0 +1,14 @@
+{
+    "status": "passed",
+    "error": "",
+    "tracks": 7,
+    "runtimeErrors": 0,
+    "gameplaySelection": true,
+    "eventReturn": true,
+    "menuSelection": true,
+    "randomAutumn": true,
+    "singlePlayer": true,
+    "playback": true,
+    "manualTime": true,
+    "rapidSelection": true
+}

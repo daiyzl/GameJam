@@ -1,0 +1,1 @@
+hud=True, active=True, world=True, tools=True, selected=Earth, placed=True, moved=False, title=河岸繁荣, message=元素已投放；点击“渡过时段”结算影响。

@@ -1,0 +1,1 @@
+plain=546, slope=158, mountain=141

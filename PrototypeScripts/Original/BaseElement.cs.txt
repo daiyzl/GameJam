@@ -1,0 +1,18 @@
+public enum Element
+{
+    Gold,
+    Wood,
+    Water,
+    Fire,
+    Earth
+}
+public class BaseElement
+{
+    public int count;
+    public Element myElement;
+    BaseElement(int num,Element element)
+    {
+        count = num;
+        myElement= element;
+    }
+}

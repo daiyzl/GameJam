@@ -1,0 +1,44 @@
+# Unity-generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Bb]uild/
+[Bb]uilds/
+MemoryCaptures/
+Recordings/
+
+# IDE and OS files
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.booproj
+*.opendb
+*.VC.db
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Generated profiling, logs, and export archives
+*.log
+*.tmp
+*.bak
+*-profiler.data
+*-profiler.data.meta
+*.unitypackage
+/*.zip
+
+# Local secrets
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+*.pem
+*.key

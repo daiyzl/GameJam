@@ -1,0 +1,17 @@
+seed=1,first=68,peak=87.1
+seed=2,first=-1,peak=34.8
+seed=3,first=221,peak=79.9
+seed=4,first=67,peak=85.3
+seed=5,first=29,peak=89.0
+seed=6,first=-1,peak=51.6
+seed=7,first=132,peak=82.7
+seed=8,first=268,peak=85.8
+seed=9,first=218,peak=87.5
+seed=10,first=-1,peak=34.4
+seed=11,first=283,peak=86.6
+seed=12,first=193,peak=88.7
+seed=13,first=93,peak=86.9
+seed=14,first=-1,peak=75.6
+seed=15,first=271,peak=81.3
+seed=16,first=126,peak=91.3
+Natural prosperity within 100 days: 12/16

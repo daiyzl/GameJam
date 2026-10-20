@@ -1,0 +1,10 @@
+PASS: acceptance regressions (deathland, heat spread/barriers, flooding/landing, animal routes)
+No-rain channel: open bank=3.89, clogged bank=5.25, deposited=8.00
+phase 1: pop=10, prosperity=63.0, trees=16, farms=0, wildMoves=6, won=False
+phase 6: pop=20, prosperity=80.4, trees=21, farms=2, wildMoves=36, won=True
+phase 11: pop=36, prosperity=98.9, trees=38, farms=5, wildMoves=89, won=True
+phase 16: pop=62, prosperity=99.8, trees=60, farms=8, wildMoves=170, won=True
+phase 21: pop=81, prosperity=99.7, trees=79, farms=8, wildMoves=275, won=True
+phase 26: pop=105, prosperity=97.2, trees=87, farms=8, wildMoves=382, won=True
+30 supported phases: 469ms
+PASS: 437000 assertions

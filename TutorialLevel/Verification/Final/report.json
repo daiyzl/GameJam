@@ -1,0 +1,19 @@
+{
+    "status": "passed",
+    "scenePath": "Assets/Scenes/FiveElementsTutorial.unity",
+    "checks": "PASS growth: 1:1:2, local resources, fire gate, exhausted resources\r\nPASS fire: weak flame, fuel growth, water priority, ash, delayed spread, walls\r\nPASS gold: threshold, no hidden damage, fatigue, local aggregation\r\nPASS water: shared outflow budget, delay, soil retention, wood barrier, collection\r\nPASS level 1: gold y=1, won in 14 steps, water=11.73\r\nPASS level 1: gold y=3, won in 14 steps, water=11.73\r\nPASS level 2: gold y=1, won in 26 steps, water=10.17\r\nPASS level 2: gold y=3, won in 26 steps, water=10.41\r\nPASS deterministic replay and laboratory resource ledgers\r\nPASS: 34686 assertions\r\n; native Tilemap and negative cell coordinates; real movement; Tilemap physics; real scheduled growth; teaching interactions; retry preserving progress; gold clearing collider; extinguish; burn/ash; rain particles and regrowth; return-to-village win; Canvas restart",
+    "error": "",
+    "previewPath": "C:\\Users\\DLQian\\Documents\\ChatGPT\\GameJam\\TutorialLevel\\Verification\\Final\\tutorial-preview.png",
+    "rainPath": "C:\\Users\\DLQian\\Documents\\ChatGPT\\GameJam\\TutorialLevel\\Verification\\Final\\rain-preview.png",
+    "mapPath": "C:\\Users\\DLQian\\Documents\\ChatGPT\\GameJam\\TutorialLevel\\Verification\\Final\\tutorial-map.png",
+    "runtimeErrors": 0,
+    "cellCount": 748,
+    "lessonsCompleted": 5,
+    "rainParticles": 133,
+    "rainPulses": 2,
+    "movementDistance": 1.529998779296875,
+    "collisionX": -2.8149962425231935,
+    "waterLedgerError": 0.0,
+    "earthLedgerError": 0.0,
+    "woodLedgerError": 0.0
+}

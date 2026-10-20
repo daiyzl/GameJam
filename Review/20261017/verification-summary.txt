@@ -1,0 +1,28 @@
+Review date: 2026-10-17 (Asia/Shanghai)
+
+Executed during this review:
+1. EmergenceV1/Checks/Verify.ps1
+   Exit code: 0
+   Final output: PASS: 1270857 assertions
+   Note: assertion executions, not unique test cases or coverage percentage.
+2. GeneratorChecks compiled from current simulation sources, run with --long
+   Exit code: 0
+   Final output: PASS: 9176 procedural-world assertions
+   Scope: 64 seed maps; 750 days each for seeds 1, 7, 17, 31.
+   Full captured output: generator-results.txt
+3. ReviewProbe.cs compiled from current simulation sources
+   Exit code: 0
+   Observed: changing terrainNoiseScale, terrainAmplitude and generateTerrain
+   produced 0/1120 different cell heights through V1WorldGenerator.Generate,
+   seed 317. This demonstrates a configuration limitation.
+4. SHA256 comparison of all 21 EmergenceV1/Scripts files against installed
+   Assets/Scripts/EmergenceV1 files: no differences.
+
+Historical evidence inspected, not rerun:
+- HUD20261016/FinalUnityPlay/report.json: passed; runtimeErrors=0.
+- Builds/20261017/BuildAudit/build-report.json: Succeeded; errors=0; warnings=0.
+- distribution-report.json records successful startup rendering but an
+  incomplete standalone input check due to window activation failure.
+
+No Unity Play session, standalone end-to-end input session, or Profiler capture
+was performed during this review. No gameplay source was changed.

@@ -1,0 +1,1 @@
+Initial village #1, active=True, population=16, tier=1, migrations=1, at=(16, 8, 0), cause=木材库存耗尽，居民搬离；已迁移，保留原村编号与规模

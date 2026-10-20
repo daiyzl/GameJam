@@ -1,0 +1,17 @@
+{
+  "tool": "built-in image_gen",
+  "referenceImages": [
+    "tree.png",
+    "mountain.png"
+  ],
+  "prompts": [
+    {
+      "name": "rock",
+      "prompt": "Use case: stylized-concept. Generate a BRAND NEW production sprite for the same Unity 2D pixel-art top-down RPG as the supplied REFERENCE IMAGES. Images are style references only, not edit targets. Match their exact chunky square pixel clusters, moss-green/ochre/warm brown/gray palette, dark charcoal contour, upper-left light, overhead three-quarter camera. NOT isometric, not smooth illustration. Actual transparent alpha background. Crisp opaque stepped pixel edges. No surrounding glow, no haze, no backdrop, no lettering, labels, UI or watermark. Entire asset fits inside canvas with transparent padding. One isolated ordinary LOW BOULDER rock sprite, with two small stone chips beside it. Broad irregular gray stone with a flat broken top and angular dark side, slight olive moss along base. This is a waist-high field rock, NOT a tall mountain, NOT a gem. It should match the rocky material of reference mountain and be readable as a 32x32 logical pixel terrain obstacle magnified with nearest neighbor."
+    },
+    {
+      "name": "village",
+      "prompt": "Use case: stylized-concept. Generate a BRAND NEW production sprite for the same Unity 2D pixel-art top-down RPG as the supplied REFERENCE IMAGES. Images are style references only, not edit targets. Match their exact chunky square pixel clusters, moss-green/ochre/warm brown/gray palette, dark charcoal contour, upper-left light, overhead three-quarter camera. NOT isometric, not smooth illustration. Actual transparent alpha background. Crisp opaque stepped pixel edges. No surrounding glow, no haze, no backdrop, no lettering, labels, UI or watermark. Entire asset fits inside canvas with transparent padding. One small VILLAGE CLUSTER map-object sprite: three modest timber-and-plaster cottages with ochre-brown pitched tile roofs, warm tan plaster and dark timber framing, visible simple door openings, arranged in a loose horseshoe opening toward the bottom for a player to approach. A compact little well stands in the small central courtyard. Match the reference sprite scale and pixel language; reads as about 128x96 logical pixels magnified with nearest neighbor. NO people, no signs, no decorative borders, no wide landscape, no trees, no road extending beyond cluster. Transparent gaps around buildings and courtyard edges; minimal small pixel ground shadows, no glowing halo. Roofs and walls all visible, no cropping."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "Id": "water_polluted",
+  "Width": 1254,
+  "Height": 1254,
+  "Format": "Format24bppRgb",
+  "CornerAlpha": 255,
+  "CenterAlpha": 255,
+  "Square": true
+}

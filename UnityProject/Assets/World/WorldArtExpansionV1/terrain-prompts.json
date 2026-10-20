@@ -1,0 +1,26 @@
+{
+  "tool": "image_gen built-in",
+  "references": [
+    "PixelArtPack/Sprites/mountain.png",
+    "WorldArtExpansionV1/Sprites/ground_dead.png",
+    "PixelArtPack/Sprites/water.png"
+  ],
+  "assets": [
+    {
+      "id": "soil_slope",
+      "label": "土坡",
+      "transparent": true,
+      "folder": "Sprites",
+      "prompt": "Use case: stylized-concept. Asset type: a single isolated Unity 2D pixel-art terrain sprite for the Riverbank Prosperity game. Supplied images are STYLE REFERENCES ONLY: existing mountain, barren ground and river water. Match their chunky square pixel clusters, restrained olive grass, warm ochre-brown earth, warm grey pebbles, deep brown outlines and upper-left light. Slightly elevated three-quarter orthographic RPG view, readable top surface and front height face, same perspective as the mountain, not a diamond tile or dramatic perspective. Native-looking low-resolution pixel art enlarged with hard nearest-neighbor edges. No photographic textures, smooth gradients or antialiasing. One independent sprite only, centered with generous genuine transparent margin. No labels, no text, no characters, no watermark.\nCreate one modest natural EARTHEN SLOPE / low soil hill: a low rounded raised mound about two ground cells wide. Gentle walkable inclined top rises from lower/front edge toward the back, visible warm tan and ochre stratified exposed soil along the front and right side, a few shallow runoff erosion grooves and tiny embedded grey stones. Sparse restrained olive grass patches on the upper lip and base, most surface visibly soil. Distinguish from a rock mountain: predominantly earth, low height, NO tall rocky crags, NO gold, no trees, no buildings, no stairs. Irregular compact base, no full square ground tile, complete object isolated on actual transparency. Make elevation and erodible earth easily visible at game scale.",
+      "sourcePath": "C:\\Users\\DLQian\\.codex\\generated_images\\01a10682-0599-71e1-8645-02e7d71400b6\\exec-be4c01a2-de82-4458-950e-fee8aa856e36.png"
+    },
+    {
+      "id": "river_sediment_dam",
+      "label": "堆积形成的河坝",
+      "transparent": true,
+      "folder": "Sprites",
+      "prompt": "Use case: stylized-concept. Asset type: a single isolated Unity 2D pixel-art terrain sprite for the Riverbank Prosperity game. Supplied images are STYLE REFERENCES ONLY: existing mountain, barren ground and river water. Match their chunky square pixel clusters, restrained olive grass, warm ochre-brown earth, warm grey pebbles, deep brown outlines and upper-left light. Slightly elevated three-quarter orthographic RPG view, readable top surface and front height face, same perspective as the mountain, not a diamond tile or dramatic perspective. Native-looking low-resolution pixel art enlarged with hard nearest-neighbor edges. No photographic textures, smooth gradients or antialiasing. One independent sprite only, centered with generous genuine transparent margin. No labels, no text, no characters, no watermark.\nCreate one NATURAL RIVER SEDIMENT BLOCKAGE / deposition dam, an irregular broad low earthen ridge spanning horizontally left-to-right about three game cells. It is piled river-borne sand, silt, muddy earth and scattered rounded pebbles, raised in the middle and tapering at both ends. Visible layered ochre tan sediment on the crown, dark wet brown mud around the foot, shallow deposition bands, uneven small stone clusters, two or three sparse reed tufts at the edge. Clearly an accumulation of earth and gravel obstructing a river, NOT a manufactured wall or concrete dam, NOT a bridge, no masonry, no straight construction joints, no timber beams, no gates. NO embedded water, riverbanks, landscape or blue water background: ONLY the low muddy sediment ridge, so it can overlay any river Tilemap. Show top and front side, true transparent backdrop, complete silhouette with margins, same warm soil colours as the soil slope.",
+      "sourcePath": "C:\\Users\\DLQian\\.codex\\generated_images\\01a10682-0599-71e1-8645-02e7d71400b6\\exec-0f710130-6b30-4a0f-b1a6-249fd58c1451.png"
+    }
+  ]
+}

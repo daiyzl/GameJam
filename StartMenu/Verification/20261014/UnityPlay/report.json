@@ -1,0 +1,11 @@
+{
+    "status": "passed",
+    "error": "",
+    "defaultAutumn": true,
+    "seasonCycle": true,
+    "backgrounds": true,
+    "honors": true,
+    "startGame": true,
+    "randomResolved": true,
+    "runtimeErrors": 0
+}

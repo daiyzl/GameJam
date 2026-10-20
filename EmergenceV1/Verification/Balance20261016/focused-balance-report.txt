@@ -1,0 +1,4 @@
+PASS: random physical maps, ordinary idle failure, lucky unassisted title at phase 80, current prosperity lost after damage
+Pollution fire: peak=9.81, spread=59, affected=60, adjacentWood=0.00, cleaned=2860.5
+PASS: eight titles, multiple awards, move/place flags, natural prosperity, clean end state and short tutorial
+PASS: focused balance checks, 1372 assertions
